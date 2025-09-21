@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "LinkBoard",
+    "description": "Build your link-in-bio profile without revealing personal information. Share your content while maintaining privacy.",
+    "url": "#",
+    "icon": "link",
+    "gradient": "from-blue-500 to-blue-600"
+  },
+  {
+    "id": 2,
+    "name": "NoteVault",
+    "description": "Write and protect your private notes with end-to-end encryption. No email tracking or data mining.",
+    "url": "#",
+    "icon": "file-text",
+    "gradient": "from-emerald-500 to-emerald-600"
+  },
+  {
+    "id": 3,
+    "name": "TaskFlow",
+    "description": "Organize tasks and projects without surveillance. Privacy-focused productivity at its finest.",
+    "url": "#",
+    "icon": "clipboard-check",
+    "gradient": "from-purple-500 to-purple-600"
+  },
+  {
+    "id": 4,
+    "name": "ForumLite",
+    "description": "Create community spaces without forced personal information. Anonymous discussions, authentic connections.",
+    "url": "#",
+    "icon": "message-square",
+    "gradient": "from-orange-500 to-orange-600"
+  }
+]
